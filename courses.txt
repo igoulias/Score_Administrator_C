@@ -1,0 +1,29 @@
+Engineering Analysis                                             3
+Design Thinking and Communication                                5
+Electrons, Photons and Bits:Adventures in Electrical Engineering 4
+Introduction to Computer Programming                             1
+Data Structures and Data Management                              3
+Fundamentals of Circuits                                         5
+Fundamentals of Signals and Systems                              4
+Fundamentals of Solid State Engineering                          4
+Fundamentals of Electromagnetics and Photonics                   5
+Fundamentals of Electronics                                      1
+Distributed Systems                                              1
+Microprocessor System Design                                     3
+Machine Learning                                                 3
+Asic and FPGA Design                                             3
+Computer Architecture I                                          4
+Computer Game Design                                             3
+Digital Communications                                           5
+Wireless Communications                                          1
+Solid State Electronic Devices                                   3
+Optoelectronics                                                  4
+Nanotechnology                                                   5
+Intro to Robotics                                                5
+Bioinformatics                                                   3
+Computational Photography Seminar                                1
+Game Development Studio                                          4
+Distributed Systems in Challenging Environments                  5
+Designing and Constructing Models with Multi-agent Languages II  2
+Internet Security                                                4
+Adaptive Filters                                                 2
