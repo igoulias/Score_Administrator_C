@@ -10,4 +10,4 @@ For more information please check: ProgII_s14_Assignment1.pdf
 
 How to run:
 1. Compile
-2. ./prog2erg1goulias_1785_gkourmpatsis_1791.c courses.txt status_file.txt
+2. ./prog2erg1goulias_1785_gkourmpatsis_1791 courses.txt status_file.txt
